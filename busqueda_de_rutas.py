@@ -1,4 +1,6 @@
 #Este modulo proporciona una implementacion del algoritmo de montículos, tambien conocido como algoritmo de cola con prioridad.
+#Tambien se le conoce como BEST FIRST SEARH
+#https://www.analyticsvidhya.com/blog/2023/09/best-first-search-in-artificial-intelligence/
 #https://docs.python.org/es/3/library/heapq.html
 
 import heapq
